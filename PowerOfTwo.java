@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode TwoSum problem] - https://leetcode.com/problems/power-of-two/
+// This Problem contains my solution to the [LeetCode Power of Two problem] - https://leetcode.com/problems/power-of-two/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
