@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode TwoSum problem] - https://leetcode.com/problems/fizz-buzz/
+// This Problem contains my solution to the [LeetCode Fizz Buzz problem] - https://leetcode.com/problems/fizz-buzz/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
