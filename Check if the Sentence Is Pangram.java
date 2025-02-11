@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode "Check if the Sentence Is Pangram" problem] - https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/
+// This Problem contains my solution to the [LeetCode "1832. Check if the Sentence Is Pangram" problem] - https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
