@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode First Unique Character in a String problem] - https://leetcode.com/problems/first-unique-character-in-a-string/
+// This Problem contains my solution to the [LeetCode "387. First Unique Character in a String" problem] - https://leetcode.com/problems/first-unique-character-in-a-string/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
