@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode Minimum Number Game problem] - https://leetcode.com/problems/minimum-number-game/
+// This Problem contains my solution to the ["2974. Minimum Number Game" problem] - https://leetcode.com/problems/minimum-number-game/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
