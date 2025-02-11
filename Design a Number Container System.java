@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode "Design a Number Container System" problem] - https://leetcode.com/problems/design-a-number-container-system/
+// This Problem contains my solution to the [LeetCode "2349. Design a Number Container System" problem] - https://leetcode.com/problems/design-a-number-container-system/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
