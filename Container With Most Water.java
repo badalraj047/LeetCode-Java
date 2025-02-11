@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode Container With Most Water problem] - https://leetcode.com/problems/container-with-most-water/
+// This Problem contains my solution to the [LeetCode "11. Container With Most Water" problem] - https://leetcode.com/problems/container-with-most-water/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
