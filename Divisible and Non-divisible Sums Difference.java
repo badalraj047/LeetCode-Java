@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode "Divisible and Non-divisible Sums Difference" problem] - https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
+// This Problem contains my solution to the [LeetCode "2894. Divisible and Non-divisible Sums Difference" problem] - https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
