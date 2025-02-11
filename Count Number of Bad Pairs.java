@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode "Count Number of Bad Pairs" problem] - https://leetcode.com/problems/count-number-of-bad-pairs/
+// This Problem contains my solution to the [LeetCode "2364. Count Number of Bad Pairs" problem] - https://leetcode.com/problems/count-number-of-bad-pairs/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
