@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode "Clear Digits" problem] - https://leetcode.com/problems/clear-digits/
+// This Problem contains my solution to the [LeetCode "3174. Clear Digits" problem] - https://leetcode.com/problems/clear-digits/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
