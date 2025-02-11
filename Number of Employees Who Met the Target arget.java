@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode "Number of Employees Who Met the Target" problem] - https://leetcode.com/problems/number-of-employees-who-met-the-target/
+// This Problem contains my solution to the [LeetCode "2798. Number of Employees Who Met the Target" problem] - https://leetcode.com/problems/number-of-employees-who-met-the-target/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
