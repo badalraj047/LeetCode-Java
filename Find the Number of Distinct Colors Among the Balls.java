@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode "Find the Number of Distinct Colors Among the Balls" problem] - https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/
+// This Problem contains my solution to the [LeetCode "3160. Find the Number of Distinct Colors Among the Balls" problem] - https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
