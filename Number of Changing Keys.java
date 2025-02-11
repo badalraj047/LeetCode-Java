@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode "Number of Changing Keys" problem] - https://leetcode.com/problems/number-of-changing-keys/
+// This Problem contains my solution to the [LeetCode "3019. Number of Changing Keys" problem] - https://leetcode.com/problems/number-of-changing-keys/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
