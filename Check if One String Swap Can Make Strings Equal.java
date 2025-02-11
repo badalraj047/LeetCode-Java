@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode "Check if One String Swap Can Make Strings Equal" problem] - https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
+// This Problem contains my solution to the [LeetCode "1790. Check if One String Swap Can Make Strings Equal" problem] - https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
