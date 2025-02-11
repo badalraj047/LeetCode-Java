@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode Reverse String problem] - https://leetcode.com/problems/reverse-string/
+// This Problem contains my solution to the [LeetCode "344. Reverse String" problem] - https://leetcode.com/problems/reverse-string/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
