@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode "Difference Between Element Sum and Digit Sum of an Array" problem] - https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
+// This Problem contains my solution to the [LeetCode "2535. Difference Between Element Sum and Digit Sum of an Array" problem] - https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
