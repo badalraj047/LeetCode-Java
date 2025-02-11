@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode TwoSum problem] - https://leetcode.com/problems/two-sum/
+// This Problem contains my solution to the [LeetCode "1. Two Sum" problem] - https://leetcode.com/problems/two-sum/
 
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
