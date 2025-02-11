@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode "Tuple with Same Product" problem] - https://leetcode.com/problems/tuple-with-same-product/
+// This Problem contains my solution to the [LeetCode "1726. Tuple with Same Product" problem] - https://leetcode.com/problems/tuple-with-same-product/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
