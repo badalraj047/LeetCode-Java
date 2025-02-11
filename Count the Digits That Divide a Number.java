@@ -1,4 +1,4 @@
-// This Problem contains my solution to the [LeetCode "Count the Digits That Divide a Number" problem] - https://leetcode.com/problems/count-the-digits-that-divide-a-number/
+// This Problem contains my solution to the [LeetCode "2520. Count the Digits That Divide a Number" problem] - https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 // To run this code in VS Code, you need to:
 // Add a main method to execute the code.
 // Ensure your Java setup is correct (JDK installed and configured).
